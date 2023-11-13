@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "development-c9983": {
+      "hosting": {
+        "Deployment": [
+          "development-c9983"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "development-c9983"
+  }
+}
